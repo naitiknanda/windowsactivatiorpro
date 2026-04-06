@@ -1,22 +1,40 @@
-# Softsense by Naitik Nanda v19 Activator – Build 2026 | Win10/11
-Activate Windows Pro for Free!
+🚀 Softsense BY naitik Nanda v19 Home Pro Win10/11
+Build 2026 | Developed by Naitik Nanda
 
-Tired of the watermark on your screen? This Windows Pro activator can help you activate Windows 10 and Windows 11 quickly and easily.
+Tired of the watermark on your screen? Softsense BY naitik Nanda v19 Home Pro Windows 10 11 is a lightweight, high-speed utility designed to activate Windows 10 and Windows 11 Home/Pro editions quickly and easily using local KMS technology.
+📖 How to Use
 
-Instructions:
+    Download the latest .bat or .cmd file.
 
-Right-click the batch file
-Select “Run as Administrator”
-If it doesn’t work the first time, try running it again
+    Right-click the file and select "Run as Administrator" (This is required to access system licensing tools).
+    Wait 2 Minutes (120 seconds)
 
-Features:
+    Follow the on-screen menu to choose your Windows edition.
 
-Works with both Windows 10 and Windows 11
-Simple and fast activation process
-Regular updates with new releases
+    Troubleshooting: If activation doesn't trigger immediately, simply run the script as Administrator a second time.
 
-Note:
+✨ Key Features
 
-Not compatible with Windows 7, Windows 8.1, Windows XP, Windows Vista, Windows ME, or Windows 2000
+    Universal Core: Works seamlessly with both Windows 10 and Windows 11.
 
-Made by Naitik Nanda, Bhubaneswar, Odisha, India
+    Optimized Logic: Simple, fast activation process with no hidden background tasks.
+
+    The HQ Reliability: Built with the same logic used in our hardware refresh services.
+
+    Active Development: Regular updates to ensure compatibility with the latest Windows builds.
+
+⚠️ Compatibility Note
+
+This utility is designed for modern versions of Windows. It is not compatible with legacy systems:
+
+    ❌ Windows 7 / 8.1
+
+    ❌ Windows XP / Vista
+
+    ❌ Windows ME / 2000
+
+🛡️ Credits & Support
+
+Made with 💖 by Naitik Nanda, an indie developer based in Bhubaneswar, Odisha, India.
+
+   
