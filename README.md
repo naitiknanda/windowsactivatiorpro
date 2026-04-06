@@ -1,4 +1,4 @@
-# Softsense-ACTIVATOR-v19-Design2026-Win10+11
+# Softsense by Naitik Nanda v19 Activator – Build 2026 | Win10/11
 Activate Windows Pro for Free!
 
 Tired of the watermark on your screen? This Windows Pro activator can help you activate Windows 10 and Windows 11 quickly and easily.
